@@ -45,7 +45,7 @@ export default {
     '@nuxtjs/axios',
     ['nuxt-supabase', {
       supabaseUrl: 'https://tacctsncgqserenvfuse.supabase.co',
-      supabaseKey: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InRhY2N0c25jZ3FzZXJlbnZmdXNlIiwicm9sZSI6InNlcnZpY2Vfcm9sZSIsImlhdCI6MTY1MDAwNDYzMiwiZXhwIjoxOTY1NTgwNjMyfQ.w01dVA78LfK-qGNzz7NQ6qvHinX9iHBQq_eriFalrz4'
+      supabaseKey: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InRhY2N0c25jZ3FzZXJlbnZmdXNlIiwicm9sZSI6ImFub24iLCJpYXQiOjE2NTAwMDgwNTIsImV4cCI6MTk2NTU4NDA1Mn0.fD3P5OLwxohY9kDO203kWIyBB5p_EwxMUS3LmZ72fP0'
     }]
   ],
 
