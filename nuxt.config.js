@@ -43,6 +43,10 @@ export default {
     'bootstrap-vue/nuxt',
     // https://go.nuxtjs.dev/axios
     '@nuxtjs/axios',
+    ['nuxt-supabase', {
+      supabaseUrl: 'https://tacctsncgqserenvfuse.supabase.co',
+      supabaseKey: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InRhY2N0c25jZ3FzZXJlbnZmdXNlIiwicm9sZSI6InNlcnZpY2Vfcm9sZSIsImlhdCI6MTY1MDAwNDYzMiwiZXhwIjoxOTY1NTgwNjMyfQ.w01dVA78LfK-qGNzz7NQ6qvHinX9iHBQq_eriFalrz4'
+    }]
   ],
 
   // Axios module configuration: https://go.nuxtjs.dev/config-axios
